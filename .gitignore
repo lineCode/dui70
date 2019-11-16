@@ -1,0 +1,7 @@
+# VS project metafile
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# VSCode directory configuration
+.vscode/
